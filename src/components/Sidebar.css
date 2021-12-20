@@ -59,14 +59,16 @@
 }
 
 .sidebar__top > h4 {
-    font-size: 12px;
+    font-size: 13px;
     color: rgb(0 0 0 / 60%);
     padding-left: 5px;
     padding-right: 5px;
 }
 
 .sidebar__top > h2 {
-    font-size: 18px;
+    font-size: 17px;
+    font-weight: 600;
+    margin-bottom: 5px;
 }
 
 .sidebar__bottom {
